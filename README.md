@@ -30,7 +30,7 @@ project-name/
 
 ### 2.1 Sursa datelor
 
-* **Origine:** []
+* **Origine:** [(Constantin Stancescu si alti;Album de proiectare 3D cu AutoCAD,Editura Fast,2004),[Universitatea Tehnică "Gheorghe Asachi"-Interfața utilizator. Descrierea funcțiilor elementelor ferestrei de lucru](https://sim.tuiasi.ro/wp-content/uploads/2020/04/Grafica-industriala-in-ingineria-materialelor-complet.pdf) , [Universitatea Tehnică din Cluj-Napoca-8.1 Reprezentarea arborilor și axelor](https://gdgi.utcluj.ro/scurtu%20doc/scurtu/Laboratoare%20DTI_IM_MTR/C10.pdf)]
 * **Modul de achiziție:** ☐ Senzori reali / ☐ Simulare / ☐ Fișier extern / ☐ Generare programatică
 * **Perioada / condițiile colectării:** []
 
@@ -38,8 +38,8 @@ project-name/
 
 * **Număr total de observații:** [Ex: 15,000]
 * **Număr de caracteristici (features):** [Ex: 12]
-* **Tipuri de date:** ☐ Numerice / ☐ Categoriale / ☐ Temporale / ☐ Imagini
-* **Format fișiere:** ☐ CSV / ☐ TXT / ☐ JSON / ☐ PNG / ☐ Altele: [...]
+* **Tipuri de date:** ☐ Imagini
+* **Format fișiere:** ☐ JPEG / ☐ PNG / ☐ Altele: [...]
 
 ### 2.3 Descrierea fiecărei caracteristici
 
@@ -97,3 +97,7 @@ project-name/
 - [ ] Date preprocesate
 - [ ] Seturi train/val/test generate
 - [ ] Documentație actualizată în README + `data/README.md`
+
+<!-- todo: Căutare poze brute si pentru test ,Resize(120x120) si scoaterea outline cu labview -->
+<!-- [Image borders](https://www.ni.com/docs/en-US/bundle/ni-vision/page/image-borders.html?srsltid=AfmBOoqNhvKpEyzseq3GRL_0QCm7rd6JyF8OyngowavB21bIEYFMH5zL) -->
+<!-- [Extracting Drop Outline](https://forums.ni.com/t5/LabVIEW/Extracting-Drop-Outline/td-p/749026) -->
