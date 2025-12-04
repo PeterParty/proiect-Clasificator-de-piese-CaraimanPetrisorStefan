@@ -31,13 +31,13 @@ project-name/
 ### 2.1 Sursa datelor
 
 * **Origine:** [(Constantin Stancescu si alti;Album de proiectare 3D cu AutoCAD,Editura Fast,2004),[Universitatea Tehnică "Gheorghe Asachi"-Interfața utilizator. Descrierea funcțiilor elementelor ferestrei de lucru](https://sim.tuiasi.ro/wp-content/uploads/2020/04/Grafica-industriala-in-ingineria-materialelor-complet.pdf) , [Universitatea Tehnică din Cluj-Napoca-8.1 Reprezentarea arborilor și axelor](https://gdgi.utcluj.ro/scurtu%20doc/scurtu/Laboratoare%20DTI_IM_MTR/C10.pdf)]
-* **Modul de achiziție:** ☐ Senzori reali / ☐ Simulare / ☐ Fișier extern / ☐ Generare programatică
+* **Modul de achiziție:** ☐ Senzori reali / ☐ Fișier extern / ☐ Generare programatică
 * **Perioada / condițiile colectării:** []
 
 ### 2.2 Caracteristicile dataset-ului
 
 * **Număr total de observații:** [Ex: 15,000]
-* **Număr de caracteristici (features):** [Ex: 12]
+* **Număr de caracteristici (features):** [Ex: 2]
 * **Tipuri de date:** ☐ Imagini
 * **Format fișiere:** ☐ JPEG / ☐ PNG / ☐ Altele: [...]
 
