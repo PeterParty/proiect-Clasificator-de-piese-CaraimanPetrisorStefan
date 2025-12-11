@@ -176,12 +176,12 @@ PREPROCESS (filtrare, FFT) → RN_INFERENCE → THRESHOLD_CHECK →
      SAFE_SHUTDOWN → STOP
 ``` -->
 
-Clasificare imagini piese 
+ Clasificare imagini piese 
 
 ```
 IDLE ->WAIT_TRIGGER(senzor trecere piesă)->CAPTURE_IMAGE ->
 ->VALIDATE_IMAGE(incadrare intr-un dreptunghi)->
-  ├─[Valid] ->PREPROCESS(resize,normalize)->RN_INFERENCE->CLASSIFY_DEFECT->
+  ├─[Valid] ->PREPROCESS(resize,normalize)->RN_INFERENCE->Clasificare_piesa->
               ├─[OK]-> LOG_OK-> CONVEYOR_PASS -> IDLE
               └─[DEFECT]-> LOG_DEFECT -> TRIGGER_REJECTION ->IDLE
   └─[Invalid]-> ERROR_IMAGE_QUALITY -> RETRY_CAPTURE ->IDLE
