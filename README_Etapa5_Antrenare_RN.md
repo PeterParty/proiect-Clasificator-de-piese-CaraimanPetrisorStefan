@@ -3,7 +3,7 @@
 **Disciplina:** Rețele Neuronale  
 **Instituție:** POLITEHNICA București – FIIR  
 **Student:** [Caraiman Petrisor Stefan]  
-**Link Repository GitHub:** [[Github link](https://github.com/PeterParty)]  
+**Link Repository GitHub:** [[Github link](https://github.com/PeterParty/proiect-Clasificator-de-piese-CaraimanPetrisorStefan/tree/P4)]  
 **Data predării:** [11.12.2025]
 
 ---
