@@ -1,0 +1,17 @@
+train: ../../../data/train/images
+val: ../../../data/valid/images
+test: ../../../data/test/images
+# *probleme in scrierea acestui document 
+# roboflow iți dă ca nume de variabile pentru path in data.yaml  train , val si test iar val =! valid
+
+#e foartre importantă scrierea corectă a căi pozelor 
+
+nc: 4
+names: ['arbore', 'bucsa', 'canal', 'flansa']
+
+roboflow:
+  workspace: clasificatordepiese
+  project: clasificare-flanse_arbori
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/clasificatordepiese/clasificare-flanse_arbori/dataset/4

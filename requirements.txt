@@ -1,0 +1,8 @@
+# Versiune Python >=3.8
+python --version 
+
+#pentru verificare
+
+# Instalare biblioteci
+
+pip install -U ultralytics
