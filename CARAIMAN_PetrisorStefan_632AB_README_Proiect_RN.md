@@ -6,7 +6,7 @@
 | **Grupa / Specializare** | [ex: 632AB / Informatică Industrială] |
 | **Disciplina** | Rețele Neuronale |
 | **Instituție** | POLITEHNICA București – FIIR |
-| **Link Repository GitHub** | [URL complet - ex: https://github.com] |
+| **Link Repository GitHub** | [URL complet - ex: https://github.com/PeterParty/proiect-Clasificator-de-piese-CaraimanPetrisorStefan/tree/P5] |
 | **Acces Repository** | [Privat cu acces cadre didactice RN] |
 | **Stack Tehnologic** | [Python / LabVIEW / Mixt] |
 | **Domeniul Industrial de Interes (DII)** | [ex: Producție] |
